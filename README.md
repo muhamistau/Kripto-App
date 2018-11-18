@@ -1,8 +1,2 @@
-# kripto_app
-
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+# Autokey and Columnar Cipher Mobile App
+Cryptography Project by Angga (140810160001), Islam (140810160062), and Patricia (140810160065) 
